@@ -2,7 +2,7 @@
 
 This project is just a project example to learn how to use OAuth2 in React (frontend) and NodeJS (backend) using Sequelize as ORM to access a MySQL database.
 
-The code is a simplification of the bluecity project. (find the main project in Github: https://github.com/tcrurav/bluecity.git)
+The code is a simplification of the bluecity project. (find it here: https://github.com/tcrurav/bluecity.git)
 
 ## Getting Started
 
