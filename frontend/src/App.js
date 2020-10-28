@@ -1,7 +1,7 @@
 import React from 'react';
-import RoutePrivate from './utils/private-route';
-import RoutePublic from './utils/public-route';
-import { Login } from './components/login';
+import RoutePrivate from './utils/PrivateRoute';
+import RoutePublic from './utils/PublicRoute';
+import Login from './components/Login';
 import Main from './components/Main';
 import MyError from './components/MyError';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';

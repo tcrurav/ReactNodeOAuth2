@@ -1,8 +1,9 @@
 import React from 'react';
-import { MyLoginWithGoogle } from './my-login-with-google';
+import MyLoginWithGoogle from './MyLoginWithGoogle';
 import MyLoginWithFacebook from './MyLoginWithFacebook';
 
 function MyAuthButtons(props) {
+
   return (
     <>
       <div className="row">
